@@ -1,4 +1,4 @@
-# ICR (Intelligent Character Recognition)
+# Handwriting Recognition (ICR) 
 >**NOTE:** This is a very granular level implementation of the ICR for Uppercase Alphabets, thus it can be used to be implemented in projects with ease. <br/>
 
 ### Input:
